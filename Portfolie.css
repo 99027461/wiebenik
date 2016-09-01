@@ -1,0 +1,11 @@
+body {
+    
+    background-image: url("background.jpg");
+    margin-left: 400px;
+    background-repeat: repeat-x;
+}
+
+h2 {
+    color: red;
+    margin-left: -20px;
+
